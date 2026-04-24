@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Meu nome é Murilo Regnier Stange</h1>
-<h3 align="center">Cursando Engenharia de Software na PUCPR 🎓<br>Atualmente atuando como Analista NOC/SOC há 6 meses 🖥️</h3>
+<h3 align="center">Cursando Engenharia de Software na PUCPR 🎓<br>Atualmente atuando como Estagiário do Digital por 7 meses 🖥️</h3>
 
 <p align="center">Sempre buscando desenvolver habilidades na área da tecnologia 🚀</p>
 
